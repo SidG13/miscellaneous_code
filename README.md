@@ -1,3 +1,3 @@
 # miscellaneous_code
 
-Some code solving Rosalind problems, latex practice and a standalone script.
+Some code solving Rosalind problems, LaTeX practice and a standalone script.
